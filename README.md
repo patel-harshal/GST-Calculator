@@ -3,17 +3,13 @@ Calculate GST using python!
 
 The Create GST Calculator using Python Programming.
 
-Source Code:
+  
+ <a href="https://infotechnologyxyz.blogspot.com/2020/06/how-to-create-gst-calculator-using.html">Read About GST Calculator</a>
 
-  #Find GST Using Python
-  #by @programmers0_0
+<h2>Test-Code</h2>
 
-  op = int(input("Enter Original Price:")) #op meanse Original Price
-  GST = int(input("Enter GST:")) # Get GST from User
+	git clone https://github.com/harshalpro224/GST-Calculator.git
 
-  cal = op*GST/100
-
-  total = op + cal
-
-  print("Total Amount:",total)
+	cd GST-Calculator
+	python3 GST.py
 
